@@ -204,13 +204,13 @@ Use `force=True` if the function does not recognize the base field as computable
 
 If you use `finitely_presented_algebra` in your research, please cite this repository. 
 
-K. Rhoads. `rhoadskj/finitely-presented-algebra`: `finitely-presented-algebra` v1.0, 2019. [`https://github.com/rhoadskj/finitely-presented-algebra`](https://github.com/rhoadskj/finitely-presented-algebra).
+E. Rhoads. `eorhoads/finitely-presented-algebra`: `finitely-presented-algebra` v1.0, 2019. [`https://github.com/eorhoads/finitely-presented-algebra`](https://github.com/eorhoads/finitely-presented-algebra).
 
 ```
 @software{fpa19,
-   AUTHOR = {Rhoads, Kyle\v{s}},
-    TITLE = {\texttt{rhoadskj/finitely-presented-algebra}: \texttt{finitely-presented-algebra} v1.0},
-     NOTE = {\url{https://github.com/rhoadskj/finitely-presented-algebra}},
+   AUTHOR = {Rhoads, Eleanor\v{s}},
+    TITLE = {\texttt{eorhoads/finitely-presented-algebra}: \texttt{finitely-presented-algebra} v1.0},
+     NOTE = {\url{https://github.com/eorhoads/finitely-presented-algebra}},
      YEAR = {2019},
 }
 ```
