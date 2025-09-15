@@ -4,7 +4,7 @@ Finitely presented algebras
 
 AUTHORs:
 
-- Kyle Rhoads (2019-07)
+- Eleanor Rhoads (2019-07)
 
 An implementation of finitely presented algebras into SageMath. Creates two classes,
 `FinitelyPresentedAlgebra` and `FinitelyPresentedAlgebraElement`, and provides functions that
@@ -12,7 +12,7 @@ implements algorithms for finite dimensional representations of this object.
 """
 #========================================================================#
 #                                                                        #
-#          Copyright (C) 2019 Kyle Rhoads <rhoadskj@gmail.com>           #
+#        Copyright (C) 2019 Eleanor Rhoads <eorhoads@gmail.com>          #
 #                                                                        #
 #  This program is free software: you can redistribute it and/or modify  #
 #  it under the terms of the GNU General Public License as published by  #
